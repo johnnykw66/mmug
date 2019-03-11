@@ -1,1 +1,3 @@
 Some other feature - but with different content
+My first feature added
+some 1st feature
